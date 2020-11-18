@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,11 +66,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# Ravenous-Local-Restaurant-Search
-
-This Front End React app lets users search for local restaurants using the yelp API. You can filter through the serach by "Best Match", "Most reviewed" and "Most reviewed"
-
-## How to get started
-You can clone or download the zip for this repository and then run npm i to install dependencies and then npm start to launch the local server
->>>>>>> origin/main
